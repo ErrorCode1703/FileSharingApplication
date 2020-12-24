@@ -1,4 +1,4 @@
-# FileSharingApplication
+# File Sharing Application
 The web application protects, tracks and controls files shared on Google Drive 
 
 The application is build by Django so I recommend you using Pycharm as an IDE. If you want to run it, you should change directory to FileSharingApplication/Project/ and run a command in a terminal:</br>
